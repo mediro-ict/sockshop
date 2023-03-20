@@ -1,2 +1,2 @@
-image: leonvzd/carts:0.12.1
+image: leonvzd/carts:0.13.1
 replicaCount: 1
